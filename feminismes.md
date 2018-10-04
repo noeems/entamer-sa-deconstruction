@@ -4,7 +4,8 @@
 
 ### Féminismes au pluriel ?
 C'est un mot, une notion, souvent mal compris. La première grande étape est de comprendre qu'on ne parle pas ici de femmes au sens biologique du terme (ce qui ferait tomber dans l'essentialisation) mais bien d'une condition sociale.  
-Les féminismes sont pétris de contradictions, c'est ce qui fait leur force et leur faiblesse.
+Les féminismes sont pétris de contradictions, c'est ce qui fait leur force et leur faiblesse.  
+Parce qu'il n'y a pas qu'une vérité, mais plutôt _des identités_ à respecter dans leur pluralité, invitation à plonger : 
 
 ### Pour se lancer - indispensables
 • [Un podcast à soi](https://www.arteradio.com/serie/un_podcast_soi) - Arte radio (deuxième saison en cours)  
