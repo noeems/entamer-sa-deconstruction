@@ -12,9 +12,9 @@ Voici une liste de ressources qui s'adresse aux gens qui souhaitent entamer / po
 ### Masculinités
 
 ## Pourquoi cet outil ?
-On vient souvent me/nous demander d'expliquer des concepts, de parler des oppressions, de débattre des discriminations. 
-Il y a beaucoup de ressources qui cartographient et décrivent toutes ces choses, ce répertoire nous permet de simplement en envoyer la référence.
-(Ce sont des choses qui prennent du temps ! Et il existe déjà une quantité immense de ressources qui déconstruisent ces phénomènes - à vous de jouer).
+On vient souvent me/nous demander d'expliquer des concepts, de parler des oppressions, de débattre des discriminations.  
+Il y a beaucoup de ressources qui cartographient et décrivent toutes ces choses, ce répertoire nous permet de simplement en envoyer la référence.  
+Ce sont des choses qui prennent du temps. Il existe déjà une quantité immense de ressources qui déconstruisent ces phénomènes - à vous de jouer.
 
 ## Par qui ?
 Un petit groupe de personnes à qui on demande très très souvent ce genre de liste.
