@@ -1,5 +1,7 @@
 # Luttes LGBTQI+
 
+### _En cours de construction_
+
 ### Pour démarrer
 • [Les transidentités, racontées par les trans](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/les-transidentites-racontees-par-les-trans-14-histoire-inedite-dune-mobilisation)
 
