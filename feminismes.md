@@ -1,7 +1,10 @@
 # Féminismes
 
-### Au pluriel ?
+### _En cours de construction_
 
+### Féminismes au pluriel ?
+C'est un mot, une notion, souvent mal compris. La première grande étape est de comprendre qu'on ne parle pas ici de femmes au sens biologique du terme (ce qui ferait tomber dans l'essentialisation) mais bien d'une condition sociale.  
+Les féminismes sont pétris de contradictions, c'est ce qui fait leur force et leur faiblesse.
 
 ### Pour se lancer - indispensables
 • [Un podcast à soi](https://www.arteradio.com/serie/un_podcast_soi) - Arte radio (deuxième saison en cours)  
@@ -22,7 +25,7 @@
 
 ### Livres en anglais
 • "Your silence will not protect you" - Audre Lorde  
-• Bad feminist - Roxane Gay  
+• "Bad feminist" - Roxane Gay  
 
 ### Podcasts en français
 • [Un podcast à soi](https://www.arteradio.com/serie/un_podcast_soi) - série Arte radio  
