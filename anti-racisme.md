@@ -1,18 +1,19 @@
 ## Les indispensables - pour commencer
-• Ouvrir la voix
+• Ouvrir la voix  
 • Le racisme est un problème de blancs
 
 ### Articles - notions
 • Intersectionnalité
 
 ### Livres en français 
-• Le racisme est un problème de blancs de Reni Eddo-Lodge
+• Le racisme est un problème de blancs de Reni Eddo-Lodge  
+• Afrofem du collectif Mwasi  
 
 ### Livres en anglais
 • Why I'm no longer talking to white people about race de Reni Eddo-Lodge
 
 ### Podcasts en français
-• Kiffe ta race
+• Kiffe ta race  
 • Le Tchip
 
 ### Podcasts en anglais
@@ -25,5 +26,5 @@
 
 
 ### Collectifs
-• Collectif Mwasi
+• Collectif Mwasi  
 • Lallab
