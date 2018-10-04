@@ -1,3 +1,5 @@
+### _En cours de construction_
+
 ## Les indispensables - pour commencer
 • Ouvrir la voix  
 • Le racisme est un problème de blancs
