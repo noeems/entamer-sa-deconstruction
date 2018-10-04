@@ -8,8 +8,8 @@ Voici une liste de ressources qui s'adresse aux gens qui souhaitent entamer / po
 ### [Féminismes](https://github.com/noeems/entamer-sa-deconstruction/blob/master/feminismes.md)
 ### [Luttes LGBTQI+](https://github.com/noeems/entamer-sa-deconstruction/blob/master/luttes-LGBTQI%2B.md)
 ### [Anti-racisme](https://github.com/noeems/entamer-sa-deconstruction/blob/master/anti-racisme.md) 
-### Anti-validisme
-### Masculinités
+### [Anti-validisme](https://github.com/noeems/entamer-sa-deconstruction/blob/master/anti-validisme.md)
+### [Masculinités](https://github.com/noeems/entamer-sa-deconstruction/blob/master/masculinites.md)
 
 ## Pourquoi cet outil ?
 On vient souvent me/nous demander d'expliquer des concepts, de parler des oppressions, de débattre des discriminations.  
