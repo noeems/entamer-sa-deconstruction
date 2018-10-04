@@ -20,7 +20,8 @@
 • [See something say something](https://itunes.apple.com/us/podcast/see-something-say-something/id1169261799?mt=2)
 
 ### Films - séries
-• Ouvrir la voix
+• Ouvrir la voix  
+• Insecure
 
 ### Newsletters
 
