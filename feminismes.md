@@ -14,6 +14,7 @@ Parce qu'il n'y a pas qu'une vérité, mais plutôt _des identités_ à respecte
 
 ### Articles - notions - sites
 • Intersectionnalité  
+• [Si tu veux que je t'éduque il faudra me payer](http://www.lallab.org/si-tu-veux-que-je-teduque-il-faudra-me-payer/) - Lallab
 • [Les flux](http://lesflux.fr/) - Une initiative féministe de réappropriation des savoirs médicaux sur les cycles menstruels, les règles ou la vulve.  
 • [Gyn&co](https://gynandco.wordpress.com/) - Annuaire de soignant•es féministes  
 • [Everyday feminism](https://everydayfeminism.com/) - site en anglais
