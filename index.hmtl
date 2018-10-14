@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang=fr>
+    <meta charset="utf-8">
+    <meta name="referrer" content="same-origin">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Entamer sa déconstruction</title>
+    
+    <meta name=description content="Une bibliothèque de ressources">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    
+    <link crossorigin=anonymous rel=stylesheet href="https://rawgit.com/twbs/bootstrap/v4-dev/dist/css/bootstrap-reboot.css"> 
+    <script defer crossorigin=anonymous src="https://cdn.polyfill.io/v2/polyfill.min.js?features=all"></script>
+</head>
+
+
+<style>
+    /* Reset just the minimum, improve with time */
+    body {
+        margin: 0;
+    }
+    /*Titles*/
+    h1,
+    h2,
+    h3,
+    h4,
+    h5 {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    
+    /*Forms*/
+    fieldset {
+        padding: 0;
+        margin-right: 0;
+        margin-left: 0;
+        border: none;
+    }
+    
+    /*Lists*/
+    ul {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding-left: 0;
+    }
+    /* end reset */
+    @media (max-width: 768px) {
+        body {font-size: 12px}
+        header,
+        section,
+        footer {
+            padding: 0 1em;
+        }
+    }
+    @media (min-width: 768px) {
+        body {font-size: 20px}
+        header,
+        section,
+        footer {
+            padding: 0 8em;
+        }
+    }
+    
+    body {
+        color: #002920;
+        background: #fcf9ff;
+    }
+    
+    h1,
+    h2,
+    h3,
+    h4,
+    h5 {
+        font-weight: 300;
+    }
+    
+    /* HEADER */
+    header {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 610px;
+        padding: 0;
+        margin: 0;
+        font-family: "falling-sky_black", sans-serif;
+        color: #002920;
+        text-align: center;
+        background: url(site/media/Its not feminism unless its intersectional lowres.jpg) center center no-repeat;
+    }
+    
+    header h1,
+    header p {
+        margin: 0;
+    }
+    
+    header h1 {
+        margin: 0;
+        padding: 0;
+        font-size: 3.5em;
+        font-weight: 900;
+        text-transform: uppercase;
+    }
+    
+    header h1 span {
+        font-size: 83px;
+    }
+    
+    header p {
+        padding:0 0 3rem;
+        font-weight: 500;
+        font-size: 1.1rem;
+    }
+    
+    a {
+        color: #4d4d4d;
+        padding: 0 .2em;
+        transition: all 0.4s linear;
+        border-bottom: #73d56b solid 1px;
+    }
+    a:hover, a:focus {
+        background: #73d56b;
+        color: #000;
+        text-decoration: none;
+    }
+    
+    section {
+        padding-top: 2em;
+    }
+    
+    .uvp h5 {
+        font-weight: 200;
+        text-align: center;
+        font-size: 2em;
+    }
+    
+    .summary h1 {
+        font-size: 2em;
+        border-bottom: #4d4d4d solid 1px;
+        padding-top: 1em;
+    }
+    
+    .summary h2 {
+        padding-top: 1em;
+    }
+    
+    .summary ul {
+        list-style: none;
+        padding-top: .5em;
+    }
+    
+    .summary li {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        padding: .2em;
+    }
+    
+    .subscribe {
+        padding-top: 3em;
+        text-align: center;
+    }
+    
+    .subscribe a {
+        background: none;
+        padding: .5em;
+        border: 1px solid #002920;
+    }
+    
+    .subscribe a:hover,
+    .subscribe a:focus {
+        background: #002920;
+        color: #FFFFFF;
+    }
+    
+    footer {
+        display: flex;
+        justify-content: space-between;
+        background: #ddd;
+        height: 5em;
+        line-height: 5em;
+        margin-top: 2em;
+    }
+</style>
+<header>
+    <h1><span>Entamer sa déconstruction</h1>
+</header>
+
+<section class=uvp>
+    <h5>Une liste de ressources pour entamer ou poursuivre sa déconstruction : du patriarcat, de la blanchité, du validisme, du sexisme internalisé, du capitalisme...</h5>
+</section>
+<section class=summary>
+    <h1>Sommaire</h1>
+        <h2><i>En cours de construction</i></h2>
+        <ul>
+            <p>Les ressources</p>
+            <li><a href=journees-cogitation/lyon/presentation.html>Féminismes</a></li>
+            <li><a href=journees-cogitation/nantes/presentation.html>Anti-racisme</a></li>
+            <li><a href=journees-cogitation/toulouse/presentation.html>Luttes LGBTQI+</a></li>
+            <li><a href=journees-cogitation/montpellier/presentation.html>Anti-validisme</a></li>
+            <li><a href=journees-cogitation/paris/presentation.html>Masculinités</a></li>
+        </ul>
+        
+        <h2>Pourquoi cet outil ?</h2>
+        <p>On vient souvent me/nous demander d'expliquer des concepts, de parler des oppressions, de débattre des discriminations.
+Il y a beaucoup de ressources qui cartographient et décrivent toutes ces choses, ce répertoire nous permet de simplement en envoyer la référence.
+Ce sont des choses qui prennent du temps. Il existe déjà une quantité immense de ressources qui déconstruisent ces phénomènes - à vous de jouer.</p>
+
+        <h2>Par qui ?</h2>
+        <p>Un petit groupe de personnes à qui on demande très très souvent ce genre de liste.</p>
+</section>
+
+<footer>
+    <p>
+        <a href=https://creativecommons.org/publicdomain/zero/1.0/legalcode.fr>licence CC0</a>
+    </p>
+</footer>
+
+</html>
