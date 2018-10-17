@@ -2,6 +2,8 @@
 
 Voici une liste de ressources qui s'adresse aux gens qui souhaitent entamer / poursuivre une déconstruction : du patriarcat, de la blanchité, du validisme, du sexisme internalisé, du capitalisme...
 
+Cette liste n'a pas pour ambition d'être exhaustive, elle ne le sera jamais, mais elle souhaite aiguiller vers des sujets clé de ces luttes.
+
 ### _En cours de construction_
 
 # Les ressources 
