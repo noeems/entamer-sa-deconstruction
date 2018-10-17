@@ -18,9 +18,10 @@ Parce qu'il n'y a pas qu'une vérité, mais plutôt _des identités_ à respecte
 • [Les flux](http://lesflux.fr/) - Une initiative féministe de réappropriation des savoirs médicaux sur les cycles menstruels, les règles ou la vulve.  
 • [Gyn&co](https://gynandco.wordpress.com/) - Annuaire de soignant•es féministes  
 • [Everyday feminism](https://everydayfeminism.com/) - site en anglais
+• À venir : ressources sur contraception et santé.
 
 ### Livres en français 
-• ["Beauté fatale"](https://www.placedeslibraires.fr/livre/9782355221224-sorcieres-la-puissance-invaincue-des-femmes-mona-chollet/), "Sorcières"[https://www.placedeslibraires.fr/livre/9782355221224-sorcieres-la-puissance-invaincue-des-femmes-mona-chollet/) - Mona Chollet   
+• ["Beauté fatale"](https://www.placedeslibraires.fr/livre/9782355221224-sorcieres-la-puissance-invaincue-des-femmes-mona-chollet/), ["Sorcières"](https://www.placedeslibraires.fr/livre/9782355221224-sorcieres-la-puissance-invaincue-des-femmes-mona-chollet/) - Mona Chollet   
 • La [collection Sorcières](http://www.cambourakis.com/spip.php?page=recherche&champ=full&recherche=sorcieres) chez Cambourakis : les traductions de bell hooks, Audre Lorde, Starhawk...  
 • Afrofem - Collectif Mwasi  
 • [Caliban et la sorcière](https://entremonde.net/caliban-et-la-sorciere) - Silvia Federici  
