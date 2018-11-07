@@ -8,8 +8,10 @@ Les féminismes sont pétris de contradictions, c'est ce qui fait leur force et 
 Parce qu'il n'y a pas qu'une vérité, mais plutôt _des identités_ à respecter dans leur pluralité, invitation à plonger : 
 
 ### Pour se lancer - indispensables
-• [Un podcast à soi](https://www.arteradio.com/serie/un_podcast_soi) - Arte radio (deuxième saison en cours)  
+• [Un podcast à soi](https://www.arteradio.com/serie/un_podcast_soi) - Arte radio  
 • [Women's Power - les nouveaux féminismes](https://www.franceculture.fr/emissions/grande-traversee-womens-power-les-nouveaux-feminismes) (4 épisodes d'une heure)  
+• [King Kong Théorie](https://www.grasset.fr/king-kong-theorie-9782246686118) - Virginie Despentes  
+« J'écris de chez les moches, pour les moches, les frigides, les mal baisées, les imbaisables, toutes les exclues du grand marché à la bonne meuf, aussi bien que pour les hommes qui n'ont pas envie d'être protecteurs, ceux qui voudraient l'être mais ne savent pas s'y prendre, ceux qui ne sont pas ambitieux, ni compétitifs, ni bien membrés. Parce que l'idéal de la femme blanche séduisante qu'on nous brandit tout le temps sous le nez, je crois bien qu'il n'existe pas. »   
 • Intersectionnalité  
 
 ### Articles - notions - sites
@@ -18,6 +20,7 @@ Parce qu'il n'y a pas qu'une vérité, mais plutôt _des identités_ à respecte
 • [Les flux](http://lesflux.fr/) - Une initiative féministe de réappropriation des savoirs médicaux sur les cycles menstruels, les règles ou la vulve.  
 • [Gyn&co](https://gynandco.wordpress.com/) - Annuaire de soignant•es féministes  
 • [Everyday feminism](https://everydayfeminism.com/) - site en anglais
+• [Pussypedia](https://pussypedia.net/)
 • À venir : ressources sur contraception et santé.
 
 ### Livres en français 
@@ -38,6 +41,7 @@ Parce qu'il n'y a pas qu'une vérité, mais plutôt _des identités_ à respecte
 
 ### Podcasts en anglais
 • Women of the hour
+• [Intersectionality matters](https://soundcloud.com/intersectionality-matters)
 
 
 ### Films - séries
