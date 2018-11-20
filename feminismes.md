@@ -16,11 +16,12 @@ Parce qu'il n'y a pas qu'une vérité, mais plutôt _des identités_ à respecte
 
 ### Articles - notions - sites
 • Intersectionnalité  
-• [Si tu veux que je t'éduque il faudra me payer](http://www.lallab.org/si-tu-veux-que-je-teduque-il-faudra-me-payer/) - Lallab
+• [Dear Men Who Wish to Be Allies to Women: 12 Things You Need to Know](https://everydayfeminism.com/2017/03/dear-men-who-wish-to-be-allies/)  
+• [Si tu veux que je t'éduque il faudra me payer](http://www.lallab.org/si-tu-veux-que-je-teduque-il-faudra-me-payer/) - Lallab  
 • [Les flux](http://lesflux.fr/) - Une initiative féministe de réappropriation des savoirs médicaux sur les cycles menstruels, les règles ou la vulve.  
 • [Gyn&co](https://gynandco.wordpress.com/) - Annuaire de soignant•es féministes  
-• [Everyday feminism](https://everydayfeminism.com/) - site en anglais
-• [Pussypedia](https://pussypedia.net/)
+• [Everyday feminism](https://everydayfeminism.com/) - site en anglais  
+• [Pussypedia](https://pussypedia.net/)  
 • À venir : ressources sur contraception et santé.
 
 ### Livres en français 
@@ -35,6 +36,7 @@ Parce qu'il n'y a pas qu'une vérité, mais plutôt _des identités_ à respecte
 
 ### Podcasts en français
 • [Un podcast à soi](https://www.arteradio.com/serie/un_podcast_soi) - série Arte radio  
+• [Women's Power - les nouveaux féminismes](https://www.franceculture.fr/emissions/grande-traversee-womens-power-les-nouveaux-feminismes) (4 épisodes d'une heure)  
 • Les savantes - France Inter  
 • La Poudre - Lauren Bastide  
 • [PMA hors-la-loi](https://www.franceculture.fr/emissions/les-pieds-sur-terre/pma-hors-la-loi) - série de 6 épisodes, Les Pieds sur Terre, France Culture  
