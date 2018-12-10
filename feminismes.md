@@ -61,8 +61,9 @@ Une cartographie des luttes et des pensées féministes, sur le terrain, dans le
 • [Retrouve ton porc](https://www.arteradio.com/son/61660257/retrouve_ton_porc) d'Anouk Perry sur Arte Radio  
 • [La ville à l'épreuve du genre](https://www.franceculture.fr/emissions/sur-les-docks/la-ville-lepreuve-du-genre) - Un documentaire de Nedjma Bouakra et Christine Diger  
 
-### Films et séries
+### Films - séries - vidéos
 • [Ouvrir la voix](https://boutique.arte.tv/detail/Ouvrir_la_voix) - film d'Amandine Gay qui donne la voix à des femmes noires en France.  
+• [Regarde, elle a les yeux grand ouverts](http://www.les-renseignements-genereux.org/videos/4091) Un film du MLAC sur les IVG militants
 
 ### Newsletters
 • [What's Good](https://lesglorieuses.fr/whats-good/) - newsletter inclusive créée par Mélody Thomas et Jennifer Padjemi, qui fait le lien entre la pop culture, l’actualité et les changements sociétaux.  
@@ -82,6 +83,8 @@ Une cartographie des luttes et des pensées féministes, sur le terrain, dans le
 • [Everyday feminism](https://everydayfeminism.com/) - site en anglais  
 • [Pussypedia](https://pussypedia.net/) - encyclopédie de savoirs gynécologiques  
 • [Jezebel](https://jezebel.com/) - site d'actus féministe  
+• [Feminist principles of the internet](https://feministinternet.org/en/principles)
+• [Tactical Tech - The Gendersec Curricula](https://en.gendersec.train.tacticaltech.org/) is a resource that introduces a holistic, feminist perspective to privacy and digital security trainings, informed by years of working with women and trans activists around the world. 
 
 ### Livres en anglais
 • ["Your silence will not protect you"](https://www.theguardian.com/books/2017/oct/04/your-silence-will-not-protect-you-by-audre-lorder-review) - Audre Lorde  
@@ -89,8 +92,9 @@ Une cartographie des luttes et des pensées féministes, sur le terrain, dans le
 • ["Feminism is for everybody"](https://www.plutobooks.com/9780745317335/feminism-is-for-everybody/) et ["Ain't I a Woman?: Black women and feminism"](https://www.plutobooks.com/9780861043798/aint-i-a-woman/) - bell hooks  
 • ["A Room of One's Own"](https://en.wikipedia.org/wiki/A_Room_of_One%27s_Own)- Virginia Woolf  
 
-### Films - séries en anglais
+### Films - séries - vidéos en anglais
 • [The Vagina dispatches](https://www.theguardian.com/lifeandstyle/series/vagina-dispatches) - The Guardian, Mona Chalabi et Mae Ryan font quatre épisodes centrés sur notre relation à notre vagin.  
+• [Gender, Sex and Sexuality in Technopatriarchal Capitalism: Towards a Mutation of Paradigm](http://www.cccb.org/en/activities/file/lecture-by-paul-b-preciado-and-discussion-with-eloy-fernandez-porta/229666) - Lecture by Paul B. Preciado and discussion with Eloy Fernández Porta  
 
 ### Podcasts en anglais
 • [Fugitive feminism](https://soundcloud.com/icalondon/fugitive-feminism-towards-a-fugitive-feminism)  
