@@ -19,7 +19,7 @@
 
 ### Podcasts 
 • [Kiffe ta race](https://www.binge.audio/category/kiffetarace/) Un podcast pour explorer toutes les questions raciales sur le mode de la conversation et du vécu, par Rokhaya Diallo et Grace Ly sur Binge Audio.   
-• [Le Tchip](Un podcast où trois trentenaires sympas d'origine antillaise et africaine partagent leur expérience noire. Un regard afropop sur la culture et le quotidien)  
+• [Le Tchip](https://www.arteradio.com/emission/le_tchip) Un podcast où trois trentenaires sympas d'origine antillaise et africaine partagent leur expérience noire. Un regard afropop sur la culture et le quotidien   
 
 ### Films - séries
 • [Ouvrir la voix](https://boutique.arte.tv/detail/Ouvrir_la_voix) - film d'Amandine Gay qui donne la voix à des femmes noires en France.  
