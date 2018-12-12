@@ -12,12 +12,26 @@ Raconter les transidentités autrement et surtout demander aux interessé.e.s de
 ## En français
 ### Articles - sites - notions
 • Transidentités  
+
 • LGBTQI+ - Lesbiennes, Gays, Trans, Queer, Intersexe et plus.  
+"L’acronyme LGBT (Lesbiennes, Gays, Bi·es, Trans) désigne le groupe de personnes dont l’orientation sexuelle ou l’identité de genre ne correspondent pas à la norme imposée par la société (laquelle est hétérosexuelle et cisgenre). 
+Cet acronyme est parfois complété par les lettres Q (Queer) et I (Intersexes), ainsi que par le signe + visant à inclure toutes les personnes qui ne se reconnaissent dans aucune des lettres de l’acronyme, par exemple des personnes non-binaires, sans toutefois se définir comme hétérosexuelles et/ou cis." - collectif irrécupérables  
+
 • Queer  
-"Le terme américain "queer" signifie étrange, louche, de travers. Insulte du vocabulaire populaire équivalent au français "pédé", avec la connotation de "tordue", queer s’oppose à "straight" (droit) qui désigne les hétérosexuels. Ce courant de pensée militant (Queer Theory) né dans les années 1990 remet en cause les catégories d’identité sexuelle : identités de genre (homme et femme) et d’orientation sexuelle (hétérosexuelLE et homosexuelLE). Le queer ne se limite pas à combattre les inégalités ou les dominations entre ces catégories - l’homophobie ou le patriarcat - mais remet en cause l’existence même de ces catégories." Extrait des [Panthères roses](http://www.lespantheresroses.org/theorie-queer.html)
+"Le terme américain "queer" signifie étrange, louche, de travers. Insulte du vocabulaire populaire équivalent au français "pédé", avec la connotation de "tordue", queer s’oppose à "straight" (droit) qui désigne les hétérosexuels. Ce courant de pensée militant (Queer Theory) né dans les années 1990 remet en cause les catégories d’identité sexuelle : identités de genre (homme et femme) et d’orientation sexuelle (hétérosexuelLE et homosexuelLE). Le queer ne se limite pas à combattre les inégalités ou les dominations entre ces catégories - l’homophobie ou le patriarcat - mais remet en cause l’existence même de ces catégories." 
+Extrait des [Panthères roses](http://www.lespantheresroses.org/theorie-queer.html)  
+
 • Cisgenre  
+
 • [Observatoire Des Transidentités](https://www.observatoire-des-transidentites.com/)  
+
+• [Friction magazine](https://friction-magazine.fr/) - magazine en ligne queer  
+
 • [La vie en queer](https://lavieenqueer.wordpress.com/) - Thématiques LGBTQIA+ et féministes depuis la perspective d'une personne trans non-binaire bi.  
+
+• [Komitid](https://www.komitid.fr/) - site d'infos LBGT+
+
+• [Well well well](https://revuewellwellwell.fr/) - belle revue pour toutes les lesbiennes.
 
 ### Livres en français 
 • ["La pensée straight"](http://www.editionsamsterdam.fr/la-pensee-straight/), ["Le corps lesbien"](http://www.leseditionsdeminuit.fr/livre-Le_Corps_lesbien-1895-1-1-0-1.html) - Monique Wittig  
@@ -30,12 +44,18 @@ Raconter les transidentités autrement et surtout demander aux interessé.e.s de
 "Certain.e.s appellent ça “sortir du placard”, mais on parle plus régulièrement de coming-out. Ce moment où l’on ressent le besoin de mettre des mots sur notre orientation sexuelle ou notre identité de genre et de l’annoncer à nos proches.
 En 6 épisodes, le podcast Quouïr donne la parole à des personnes qui ont décidé de faire entendre qui elles sont, dans toute leur diversité."  
 • [Monique Wittig](https://www.franceculture.fr/emissions/une-vie-une-oeuvre/monique-wittig-1935-2003-heroine-de-notre-histoire-et-lesbienne-radicale) - Une vie, une œuvre, sur France culture  
+• [Coming in](https://www.arteradio.com/son/61658766/coming) d'Elodie Font sur Arte radio.
 
 ### Films - séries - vidéos
 • [La binarité, ce n'est pas mon genre](https://www.youtube.com/watch?v=8aM0mWvEdvo) - Antonin Le Mée  
+• 
 
 ### Collectifs
-• [Irrécupérables](https://www.irrecuperables.org/) - Collectif qui a pour but de de dénoncer l’instrumentalisation de nos luttes Lesbiennes Gays Bi·es Trans Queer Intersexes et féministes, à des fins racistes, et notamment islamophobes en France 
+• [Irrécupérables](https://www.irrecuperables.org/) - Collectif qui a pour but de de dénoncer l’instrumentalisation de nos luttes Lesbiennes Gays Bi·es Trans Queer Intersexes et féministes, à des fins racistes, et notamment islamophobes en France  
+• [Queers et trans révolutionnaires](https://qtresistance.wordpress.com/)  
+• [Association des journalistes lesbiennes, gays, bi•e•s et trans](http://ajlgbt.info/)  
+• [Collectif Archives LGBTQI+](https://archiveslgbtqi.fr/)  
+• [Actions Concrètes Conciliants : Education, Prévention, Travail, Equité, Santé et Sport pour les Transgenres](https://www.acceptess-t.com)  
 
 ## En anglais
 ### Articles - sites - notions
