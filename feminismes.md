@@ -1,6 +1,6 @@
 # Féminismes
 
-### _En cours de construction_
+### _Cette page est en cours de construction, elle n'a pas l'ambition d'être exhaustive_
 
 ### Féminismes au pluriel ?
 C'est un mot, une notion, souvent mal comprise. La première grande étape est de comprendre qu'on ne parle pas ici de femmes au sens biologique du terme (ce qu'on appelle l'essentialisation) mais bien d'une condition sociale.  
@@ -76,6 +76,7 @@ L’articulation de ces oppressions forme un système, lequel produit des discri
 • [Lallab](http://www.lallab.org/)  - Lallab est une association dont le but est de faire entendre les voix des femmes musulmanes qui sont au coeur d’oppressions racistes et sexistes. Nous façonnons un monde dans lequel les femmes choisissent en toute liberté les armes de leur émancipation.  
 • [Osez le féminisme](http://osezlefeminisme.fr/)  
 • [L’Association pour les droits des femmes dans le développement - AWID](https://www.awid.org/fr/) L´AWID est une organisation féministe mondiale qui consacre ses efforts à la justice de genre, au développement durable et aux droits humains des femmes  
+• [Féministes contre le cyber-harcèlement](https://www.vscyberh.org/)  
 
 ## En anglais, in english
 
