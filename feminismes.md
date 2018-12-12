@@ -18,7 +18,8 @@ Féminismes, genre, égalité : tous les premiers mercredis du mois, Un podcast 
 Une cartographie des luttes et des pensées féministes, sur le terrain, dans les universités, en politique et sur internet, pour comprendre les acquis et le enjeux d'avenir d'un mouvement, pluriel, vivant et métissé, situé au cœur des transformations sociales que nous vivons.  
 
 • **Intersectionnalité**  
-"Le concept est à première vue simple: montrer que la domination est plurielle et tenter de mesurer l’impact de discriminations multiples - de sexe, de classe, de race surtout, mais aussi de handicap ou d’orientation sexuelle - qui se croisent, parfois se renforcent, mais pas toujours." En lire plus [ici](https://www.liberation.fr/debats/2015/07/02/intersectionnalite-nom-concept-visant-a-reveler-la-pluralite-des-discriminations-de-classe-de-sexe-e_1341702).
+"Le concept d’intersectionnalité vise à appréhender la complexité des identités et des rapports sociaux en postulant l’imbrication et l’interaction des différentes formes d’oppressions (de classe, de genre, de sexualité, de race, notamment).
+L’articulation de ces oppressions forme un système, lequel produit des discriminations spécifiques qui placent certaines personnes (par exemple, les lesbiennes racisé·es) dans des situations d’extrême vulnérabilité du fait de leur appartenance simultanée à plusieurs groupes minoritaires." - définition issue du [collectif Irrécupérables](https://www.irrecuperables.org/glossaire/intersectionnalite)  
 
 ## En français
 ### Articles - notions - sites en français
