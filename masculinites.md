@@ -13,8 +13,11 @@
 ### Podcasts
 • [Les couilles sur la table](https://www.binge.audio/category/les-couilles-sur-la-table/) par Victoire Tuaillon, sur Binge Audio.  
 Un podcast destiné aux femmes, aux hommes qui se posent des questions sur eux-mêmes.  
-• [Masculins, est-ce ainsi que les hommes se vivent](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/masculins-est-ce-ainsi-que-les-hommes-se-vivent), 4 épisodes d'une heure. LSD, la série documentaire.  
+
+• [Masculins, est-ce ainsi que les hommes se vivent](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/masculins-est-ce-ainsi-que-les-hommes-se-vivent) par Perrine Kervran - LSD, la série documentaire sur France Culture.  
+4 épisodes d'une heure.  
 Interroger le genre : « c'est quoi un garçon ? », (dé)construction de la virilité, éduquer les fils, l'apprentissage du masculin, masculinités plurielles.  
+
 • [Piment](https://soundcloud.com/piiiiment)  
 Aujourd’hui les conversations sur les masculinités se répandent progressivement dans l’espace public français, mais celles sur les spécificités des masculinités noires restent plus confidentielles. Dans cette émission, Binetou, Balla, Rhoda et Chris ont décidé de s’attarder longuement sur ces masculinités qui sont à la fois redoutées et célébrées. Dans quelles conditions se construisent-elles ? Pourquoi ces conversations ne sont-elles pas saisies et débattues par les hommes noirs eux-mêmes ? Puis en deuxième partie d’émission, ils tentent de répondre à la question que pose un article récent du journaliste Wesley Morris pour le New York Times : Est-ce que l’Art devrait être un champ de bataille pour la justice sociale ?  
 
