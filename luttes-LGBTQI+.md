@@ -8,10 +8,10 @@
 Raconter les transidentités autrement et surtout demander aux interessé.e.s de nous les raconter. Retracer l’histoire de la militance "trans", décrypter la façon dont la médecine et la psychiatrie ont mis la main sur les destinées des personnes transgenres, montrer comment le questionnement du genre rejaillit sur toute la société. Et faire le point sur les revendications des personnes transgenres aujourd’hui. Pour sortir des récits de transitions spectaculaires, qui occultent le quotidien de citoyens considérés par l’Etat et la société comme des citoyens de seconde zone. 
 
 • **Non-binarité**  
-"L'expression non-binaire ou genderqueer1 désigne les personnes dont l'identité de genre n'est ni homme ni femme. La personne non-binaire s'oppose à la binarité de genre et à la hiérarchie des genres qui peut l'accompagner (le patriarcat ou, plus théoriquement, le matriarcat). Elle remet aussi en cause l'assignation sexuelle à un genre donné" - en savoir plus sur [la page Wikipedia](https://fr.wikipedia.org/wiki/Non-binaire)
+"L'expression non-binaire ou genderqueer désigne les personnes dont l'identité de genre n'est ni homme ni femme. La personne non-binaire s'oppose à la binarité de genre et à la hiérarchie des genres qui peut l'accompagner (le patriarcat ou, plus théoriquement, le matriarcat). Elle remet aussi en cause l'assignation sexuelle à un genre donné" - en savoir plus sur [la page Wikipedia](https://fr.wikipedia.org/wiki/Non-binaire)
 
 ## En français
-### Articles - sites - notions
+### Glossaire - notions
 • **Transidentités**  
 "Être trans, transidentitaire ou transgenre (transgender en anglais) est le fait d’avoir une identité de genre différente que celle attribuée à sa naissance" - continuer la lecture sur [Vivre Trans](https://vivre-trans.fr/cisgenre-transgenre-la-difference/)  
 
@@ -26,6 +26,7 @@ Extrait des [Panthères roses](http://www.lespantheresroses.org/theorie-queer.ht
 • **Cisgenre**  
 "La majorité de la planète se définit en tant que cisgenre sans le savoir. Car être cisgenre, c’est se définir et se reconnaître par son genre de sa naissance, c’est à dire se sentir homme en étant homme de naissance, ou femme en étant femme de naissance" - continuer la lecture sur [Vivre Trans](https://vivre-trans.fr/cisgenre-transgenre-la-difference/)  
 
+### Articles et sites
 
 • [Observatoire Des Transidentités](https://www.observatoire-des-transidentites.com/)  
 
@@ -38,11 +39,11 @@ Extrait des [Panthères roses](http://www.lespantheresroses.org/theorie-queer.ht
 • [Well well well](https://revuewellwellwell.fr/) - belle revue pour toutes les lesbiennes.
 • [Archives du Front Homosexuel d’Action Révolutionnaire (F.H.A.R)](http://archivesautonomies.org/spip.php?rubrique258)  
 
-### Livres en français 
+### Livres 
 • ["La pensée straight"](http://www.editionsamsterdam.fr/la-pensee-straight/), ["Le corps lesbien"](http://www.leseditionsdeminuit.fr/livre-Le_Corps_lesbien-1895-1-1-0-1.html) - Monique Wittig  
 • [Homo inc.orporated – Le triangle et la licorne qui pète](http://www.cambourakis.com/spip.php?article870&var_recherche=bourcier) - Sam Bourcier  
 
-### Podcasts en français
+### Podcasts 
 • [Dans le genre](http://www.nova.fr/radionova/podcast-dans-le-genre) - sur Nova  
 Épisodes de 50 minutes.
 Geraldine Sarratia part à la rencontre d’une personnalité qu'elle interroge sur le rapport qu'il ou elle entretient avec son genre et son identité. Comment compose-t-il ou elle avec son genre ? Se trouve-t-elle féminine, virile ? Se sent-il à l'aise avec les codes de la masculinité ?  
