@@ -22,7 +22,7 @@ Une cartographie des luttes et des pensées féministes, sur le terrain, dans le
 L’articulation de ces oppressions forme un système, lequel produit des discriminations spécifiques qui placent certaines personnes (par exemple, les lesbiennes racisé·es) dans des situations d’extrême vulnérabilité du fait de leur appartenance simultanée à plusieurs groupes minoritaires." - définition issue du [collectif Irrécupérables](https://www.irrecuperables.org/glossaire/intersectionnalite)  
 
 ## En français
-### Articles - notions - sites en français
+### Articles - notions - sites
 • [Si tu veux que je t'éduque il faudra me payer](http://www.lallab.org/si-tu-veux-que-je-teduque-il-faudra-me-payer/) - Lallab  
 • [Les flux](http://lesflux.fr/) - Une initiative féministe de réappropriation des savoirs médicaux sur les cycles menstruels, les règles ou la vulve.  
 • [Gyn&co](https://gynandco.wordpress.com/) - Annuaire de soignant•es féministes  
@@ -51,14 +51,15 @@ L’articulation de ces oppressions forme un système, lequel produit des discri
 • [Le Ventre des femmes : capitalisme, racialisation, féminisme](https://www.albin-michel.fr/ouvrages/le-ventre-des-femmes-9782226395252) de Françoise Vergès  
 • [Sexe, genre et sexualités](https://www.puf.com/content/Sexe_genre_et_sexualit%C3%A9s) d'Elsa Dorlin.  
 
-### Podcasts, émissions radio en français
+### Podcasts, émissions radio 
 • [Un podcast à soi](https://www.arteradio.com/serie/un_podcast_soi) - par Charlotte Bienaimé, chez Arte radio. Épisodes entre 30 minutes et 1 heure.   
 • [Women's Power - les nouveaux féminismes](https://www.franceculture.fr/emissions/grande-traversee-womens-power-les-nouveaux-feminismes) par Charlotte Bienaimé sur France Culture. 5 épisodes d'une heure.  
 • [Les savantes](https://www.franceinter.fr/emissions/les-savantes) - France Inter. Lauren Bastide reçoit des chercheuses féministes. Elles témoignent de leur expérience dans des domaines longtemps accaparés par les hommes.  
 • [La Poudre](https://www.nouvellesecoutes.fr/la-poudre/) - Lauren Bastide reçoit une femme inspirante, artiste, activiste, politique pour une conversation intime et profonde.  
 • [PMA hors-la-loi](https://www.franceculture.fr/emissions/les-pieds-sur-terre/pma-hors-la-loi) - série de 6 épisodes, Les Pieds sur Terre, France Culture  
 • [Audre Lorde (1934-1992) Poète guerrière](https://www.franceculture.fr/emissions/une-vie-une-oeuvre/audre-lorde-1934-1992-poete-guerriere), France Culture  
-• [Mental FM](https://www.arteradio.com/son/61660364/mental_fm) de Victoire Tuaillon sur ARTE Radio. Une femme se plante un micro dans le cerveau pour enregistrer tout ce qui s'y dit.  
+• [Mental FM](https://www.arteradio.com/son/61660364/mental_fm) de Victoire Tuaillon sur ARTE Radio.  
+Une femme se plante un micro dans le cerveau pour enregistrer tout ce qui s'y dit.  
 • [Retrouve ton porc](https://www.arteradio.com/son/61660257/retrouve_ton_porc) d'Anouk Perry sur Arte Radio  
 • [La ville à l'épreuve du genre](https://www.franceculture.fr/emissions/sur-les-docks/la-ville-lepreuve-du-genre) - Un documentaire de Nedjma Bouakra et Christine Diger  
 
