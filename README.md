@@ -20,3 +20,7 @@ Ce sont des choses qui prennent du temps. Il existe déjà une quantité immense
 
 ## Par qui ?
 Un petit groupe de personnes à qui on demande très très souvent ce genre de liste.
+
+## Envie de contribuer ?
+Cette bibliothèque en est à ses tous premiers pas. Envie d'y contribuer vos ressources ?  
+Envoyez-nous [un email](mailto:hi@noemiegirard.co), ou faîtes une pull request ici. Merci :)
