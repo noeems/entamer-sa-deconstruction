@@ -37,7 +37,12 @@ Extrait des [Panthères roses](http://www.lespantheresroses.org/theorie-queer.ht
 • [Komitid](https://www.komitid.fr/) - site d'infos LBGT+
 
 • [Well well well](https://revuewellwellwell.fr/) - belle revue pour toutes les lesbiennes.
+
 • [Archives du Front Homosexuel d’Action Révolutionnaire (F.H.A.R)](http://archivesautonomies.org/spip.php?rubrique258)  
+
+• [Wiki Trans d’Entropea](http://entropea.me/) - Un wiki à destination des personnes trans en questionnement et de leurs alliés.
+
+• [Questions Transféministes](http://questions.tf/) - Analyses sur les questions trans
 
 ### Livres 
 • ["La pensée straight"](http://www.editionsamsterdam.fr/la-pensee-straight/), ["Le corps lesbien"](http://www.leseditionsdeminuit.fr/livre-Le_Corps_lesbien-1895-1-1-0-1.html) - Monique Wittig  
