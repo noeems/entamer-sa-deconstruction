@@ -10,6 +10,9 @@ Après l'élection de Barack Obama, certains ont proclamé l'avènement d'une so
 • **Intersectionnalité**  
 “Le concept d’intersectionnalité vise à appréhender la complexité des identités et des rapports sociaux en postulant l’imbrication et l’interaction des différentes formes d’oppressions (de classe, de genre, de sexualité, de race, notamment). L’articulation de ces oppressions forme un système, lequel produit des discriminations spécifiques qui placent certaines personnes (par exemple, les lesbiennes racisé·es) dans des situations d’extrême vulnérabilité du fait de leur appartenance simultanée à plusieurs groupes minoritaires.” - définition issue du [collectif Irrécupérables](https://www.irrecuperables.org/glossaire/intersectionnalite)  
 
+• **[Me and White Supremacy](http://laylafsaad.com/meandwhitesupremacy-workbook/)** de Layla F.Saad  
+Part education, part activation, the Me And White Supremacy Workbook is a first-of-its-kind personal anti-racism tool for people holding white privilege to begin to examine and dismantle their complicity in the oppressive system of white supremacy.
+
 ## En français
 ### Articles - sites - notions
 • [Mrs Roots](http://mrsroots.fr/) - site afroféministe  
